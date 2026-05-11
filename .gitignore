@@ -1,0 +1,13 @@
+*.ipynb
+Plan.md
+*.terraform
+*.csv
+*.png
+*.jar
+.terraform/
+logs/
+lightning_logs/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+kafka_data/
