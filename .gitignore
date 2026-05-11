@@ -11,3 +11,4 @@ lightning_logs/
 terraform.tfstate
 terraform.tfstate.backup
 kafka_data/
+dags/__pycache__
